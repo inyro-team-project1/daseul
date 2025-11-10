@@ -1,3 +1,1 @@
-# daseul
-# daseul
-나는 신현진
+README 수정
